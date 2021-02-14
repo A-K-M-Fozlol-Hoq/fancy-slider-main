@@ -162,4 +162,3 @@ const toggleSpinner = () =>{
   loadingSpinner.classList.toggle('d-none')
 }
 
-
